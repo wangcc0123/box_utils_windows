@@ -1,6 +1,10 @@
 # box_utils
 build box_utils under windows. Used in maskrcnn, RRPN, and other rotation rpn networks
 
+replace the box_utils folder in your project. Please make sure you have a copy of your original box_utils folder. 
+
+pip install cython
+
 cd path/box_utils
 
 python setup.py build_ext --inplace
