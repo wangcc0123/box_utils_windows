@@ -9,7 +9,7 @@ cd path/box_utils/cython_utils
 
 python setup.py build_ext --inplace
 
-Important Info：
+# Important Info：
 
 for different cuda version
 
